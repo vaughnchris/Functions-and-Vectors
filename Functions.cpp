@@ -45,6 +45,7 @@ int change_def(int c, double d = 10)
 }
 
 // Main function
+/*
 int main()
 {
 	int a = 10, b=20;
@@ -65,3 +66,4 @@ int main()
 
 	return 0;
 }
+*/
